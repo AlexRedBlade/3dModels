@@ -1,6 +1,5 @@
 # Blender 4.1.1
 # www.blender.org
-mtllib Sylveon.mtl
 o Sylveon
 v -5.073354 -4.136827 43.612274
 v -4.841580 -6.352973 43.969456
