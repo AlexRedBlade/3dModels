@@ -1,0 +1,42 @@
+# Blender 4.1.1 MTL File: 'Sylveon.blend'
+# www.blender.org
+
+newmtl Material_#10
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/mopar/Desktop/Блевотина/Sylveon/NewTex/pm0767_00_Eye1 [problembo.com].png
+
+newmtl Material_#11
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/mopar/Desktop/Блевотина/Sylveon/NewTex/1.png
+
+newmtl Material_#12
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd F:/Dowld/pm0767_00_Mouth1 [problembo.com].png
+
+newmtl Material_#13
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/mopar/Desktop/Блевотина/Sylveon/NewTex/pm0767_00_BodyB1 [problembo.com].png
